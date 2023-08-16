@@ -13,3 +13,17 @@ h1, h2, p {
     margin-left: auto;
     margin-right: auto;
 }
+
+.item p {
+    display: inline-block;
+}
+
+.variasi {
+    text-align: left;
+    width: 50%;
+}
+
+.harga {
+    text-align: right;
+    width: 50%;
+}
